@@ -7,23 +7,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anaziety&label=Profile%20views&color=0e75b6&style=flat" alt="anaziety" /> </p>
 
-- 💡 Currently working on **Data Science/Machine Learning Projects**
+💡 Currently working on **Data Science/Machine Learning Projects**
 
-- 📈 Learning **Generative AI**
+📈 Learning **Generative AI**
 
-- 🤝🏼 I’m looking to collaborate on **Machine Learning/Data Science Projects**
+🤝🏼 I’m looking to collaborate on **Machine Learning/Data Science Projects**
 
-- 💁🏻‍♀️ I’m looking for help with **Large Language Models**
+💁🏻‍♀️ I’m looking for help with **Large Language Models**
 
-- 👨‍💻 Here's the link to my Portfolio: [https://thankful-field-0cbf11300.4.azurestaticapps.net/](https://thankful-field-0cbf11300.4.azurestaticapps.net/)
+👨‍💻 Here's the link to my Portfolio: [https://thankful-field-0cbf11300.4.azurestaticapps.net/](https://thankful-field-0cbf11300.4.azurestaticapps.net/)
 
-- 📝 I regularly write articles on [https://medium.com/@anam.zakir](https://medium.com/@anam.zakir)
+📝 I sometimes write blogs on [https://medium.com/@anam.zakir](https://medium.com/@anam.zakir)
 
-- 💬 Ask me about **Python, Computer Vision, Machine Learning**
+💬 Ask me about **Python, Computer Vision, Machine Learning**
 
-- 📫 Reach me at **anamzakir09@gmail.com**
+📫 Reach me at **anamzakir09@gmail.com**
 
-- 💀 Fun fact: **I've very Dark Humour**
+💀 Fun fact: **I've very Dark Humour**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
