@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Anam Zakir! 👋🏼</h1>
+
 ![logo](https://github.com/Anaziety/Anaziety/blob/main/LinkedIn%20banner.png)
 <h3 align="center">A passionate Software Engineer with special interest in Data Science 📊👩🏻‍💻</h3>
 
