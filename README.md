@@ -1,5 +1,5 @@
-![logo](https://github.com/Anaziety/Anaziety/blob/main/LinkedIn%20banner.png)
 <h1 align="center">Hi, I'm Anam Zakir! 👋🏼</h1>
+![logo](https://github.com/Anaziety/Anaziety/blob/main/LinkedIn%20banner.png)
 <h3 align="center">A passionate Software Engineer with special interest in Data Science 📊👩🏻‍💻</h3>
 
 <img align="right" alt="coding" width = "400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b952zy98jzxmtmmrd2g7hmbmx6l6vlx1q3i3pv9thidy&ep=v1_gifs_search&rid=giphy.gif&ct=g">
